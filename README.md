@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Specialization repo taught by Johns Hopkins University via Coursera.
+Repository to support the work done on the Data Science Specialization via Coursera.
